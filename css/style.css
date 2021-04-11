@@ -44,3 +44,65 @@ span.resaltado{
          url('../fonts/reggae-one-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/reggae-one-v1-latin-regular.svg#ReggaeOne') format('svg'); /* Legacy iOS */
   }
+  blockquote{
+    font-size: 2.4em;
+    color: coral;
+    text-align: right;
+    font-weight: 900;
+    font-style: italic;
+}
+div.contenedor-1{ 
+    color: whitesmoke;
+    width: 200px;
+    height: 350px;
+    background-color: brown;
+    display: inline-block;
+    border: 3px solid blue;
+    padding: 0.4em;
+    }
+    div.contenedor-2{
+    color: whitesmoke;
+    width: 200px;
+    height: 350px;
+    background-color:blueviolet;
+    display: inline-block;
+    border: 3px solid blue;
+    padding: 0.4em;
+    }
+    div.contenedor-3{
+    color: whitesmoke;
+    width: 200px;
+    height: 350px;
+    background-color:silver;
+    display: inline-block;
+    border: 3px solid blue;
+    padding: 0.4em;
+    }
+    div.contenedor-4{
+    width: 200px;
+    color: whitesmoke;
+    
+    background-color:yellowgreen;
+    display: inline-block;
+    height: 350px;
+    border: 3px solid blue;
+    padding: 0.4em;
+    }
+    div.contenedor-5{
+    color: whitesmoke;
+    width: 200px;
+    background-color:green;
+    display: inline-block;
+    height: 350px;
+    border: 3px solid blue;
+    padding: 0.4em;
+    }
+    div.contenedor-6{
+        width:200px;
+    height: 350px;
+    color: whitesmoke;
+    display: inline-block;
+    background-color:blue ;
+    border: 3px solid blue;
+    padding: 0.4em;
+    }
